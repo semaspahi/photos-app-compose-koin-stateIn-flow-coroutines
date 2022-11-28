@@ -3,7 +3,7 @@
 With Photos App you are able to see albums, list the photos on the album and see the detail of the photo.
 App is written fully with Jetpack compose.
 UI Layer is exposed with StateFlow and StateIn.
-Data Layer contains Repositories and Domain layer contains UseCase for descending photos.
+Data Layer contains Repositories and Domain layer contains UseCase for grouping photos.
 
 * UI
     * [Compose](https://developer.android.com/jetpack/compose)
